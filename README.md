@@ -1,6 +1,7 @@
 # UkilGiri
 Bangladesh's First Ai Law Assistant  [Explore More > ](https://salauddin4227.github.io/salauddinmajumder)
-[Explore in Play Store  > ]([https://salauddin4227.github.io/salauddinmajumder](https://play.google.com/store/apps/details?id=com.ukilgiri.app&hl=en))
+
+Or [Explore in Play Store  > ]([https://salauddin4227.github.io/salauddinmajumder](https://play.google.com/store/apps/details?id=com.ukilgiri.app&hl=en))
 
 ![Alt text](ukilgiri.png)
 
